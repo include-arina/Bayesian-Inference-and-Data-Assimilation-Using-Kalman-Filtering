@@ -1,0 +1,10 @@
+# MATLAB temporary and generated files
+*.asv
+*.mex*
+*.log
+*.tmp
+slprj/
+codegen/
+
+# macOS
+.DS_Store
